@@ -1,2 +1,2 @@
 # Mesto project
-https://github.com/lizardwizardd/mesto
+https://lizardwizardd.github.io/mesto/
